@@ -1,6 +1,6 @@
 ## EXECUTIVE SUMMARY
 
-This research project successfully demonstrated real-world fileless malware attacks in a controlled laboratory environment includes:
+This research project successfully demonstrated real-world fileless malware attacks in a controlled laboratory environment, including:
 
 Complete experiments - PowerShell reverse shell attack successfully executed 
 Experimental results in tables and graphs - 3 comprehensive tables with real data 
@@ -176,26 +176,6 @@ Get-ChildItem C:\Windows\Temp  # Verified no new malicious files
    - Automation tools useful for future research
    - Reproducible methodology for other researchers
 
-
-### Sh This is for you.
-1. Show `system_design_diagram.pdf` - clear network topology
-2. Explain attack flow using `attack_timeline.pdf`
-3. Present experimental results from tables
-4. Discuss real-world implications
-
 ---
 
-## VERIFICATION CHECKLIST
-
-- [x] Complete experiments conducted
-- [x] Experimental results documented in tables
-- [x] Graphs and visualizations created
-- [x] System design diagram completed
-- [x] Methodology with graphical representation
-- [x] Python automation tools functional
-- [x] All files in outputs directory
-
-To access your files:
-1. Diagrams: `system_design_diagram.pdf`, `attack_timeline.pdf`, `experimental_results_tables.pdf`
-2. Python Tools: `automated_nmap_scanner.py`, `fileless_attack_framework.py`, `attack_orchestrator.py`
 
